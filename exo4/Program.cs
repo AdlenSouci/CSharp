@@ -11,11 +11,11 @@ string couleur = Console.ReadLine();
 if (couleur == "red")
 
 {
-    texte.BackgroundColor = Texte.Color.Red;
+    Console.BackgroundColor = ConsoleColor.Red;
 }
 else
 {
-    texte.BackgroundColor = texte.Color.Blue;
+    Console.BackgroundColor = ConsoleColor.Blue;
 }
 
 string texte = $"Bonjour {prenom}, tu as {age} ans";
