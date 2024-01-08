@@ -40,3 +40,4 @@ System.UInt64 = ulong
 
 
 int, byte , decimal (long, short, float)
+long l = 1_000_000_000;
