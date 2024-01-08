@@ -21,7 +21,6 @@ if (i == 10)
 const float tva = 19.6f;
 const float pi = 3.14f;
 
-s = Console.ReadLine();
-Console.WhriteLine(s);
+
 
 
