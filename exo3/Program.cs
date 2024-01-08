@@ -10,7 +10,4 @@ string texte = $"Bonjour {prenom}";
 //type char
 char lettre = 'a';
 
-
-Console.readLine(texte);
-
 Console.WriteLine(texte);
