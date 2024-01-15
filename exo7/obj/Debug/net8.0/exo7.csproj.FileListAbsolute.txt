@@ -1,0 +1,5 @@
+C:\CSharp\exo7\obj\Debug\net8.0\exo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\exo7\obj\Debug\net8.0\exo7.AssemblyInfoInputs.cache
+C:\CSharp\exo7\obj\Debug\net8.0\exo7.AssemblyInfo.cs
+C:\CSharp\exo7\obj\Debug\net8.0\exo7.csproj.CoreCompileInputs.cache
+C:\CSharp\exo7\obj\Debug\net8.0\exo7.sourcelink.json
