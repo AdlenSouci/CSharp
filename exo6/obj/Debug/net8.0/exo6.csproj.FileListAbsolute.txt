@@ -1,0 +1,15 @@
+C:\CSharp\exo6\obj\Debug\net8.0\exo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\exo6\obj\Debug\net8.0\exo6.AssemblyInfoInputs.cache
+C:\CSharp\exo6\obj\Debug\net8.0\exo6.AssemblyInfo.cs
+C:\CSharp\exo6\obj\Debug\net8.0\exo6.csproj.CoreCompileInputs.cache
+C:\CSharp\exo6\obj\Debug\net8.0\exo6.sourcelink.json
+C:\CSharp\exo6\bin\Debug\net8.0\exo6.exe
+C:\CSharp\exo6\bin\Debug\net8.0\exo6.deps.json
+C:\CSharp\exo6\bin\Debug\net8.0\exo6.runtimeconfig.json
+C:\CSharp\exo6\bin\Debug\net8.0\exo6.dll
+C:\CSharp\exo6\bin\Debug\net8.0\exo6.pdb
+C:\CSharp\exo6\obj\Debug\net8.0\exo6.dll
+C:\CSharp\exo6\obj\Debug\net8.0\refint\exo6.dll
+C:\CSharp\exo6\obj\Debug\net8.0\exo6.pdb
+C:\CSharp\exo6\obj\Debug\net8.0\exo6.genruntimeconfig.cache
+C:\CSharp\exo6\obj\Debug\net8.0\ref\exo6.dll
