@@ -8,7 +8,7 @@ namespace TPCalc
         {
             Console.WriteLine("Addition");
             return a + b;
-            
+
 
         }
 
@@ -26,8 +26,17 @@ namespace TPCalc
         }
         public decimal Division(decimal a, decimal b)
         {
-            Console.WriteLine("Division");
+            while (b == 0 or a == 0)
+            {
+                Console.WriteLine("Impossible de diviser par 0");
+                return 0;
+
+            }
             return a / b;
+
+
+
+
         }
     }
 }
