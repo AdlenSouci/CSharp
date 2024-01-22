@@ -1,0 +1,5 @@
+C:\CSharp\POO\obj\Debug\net8.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\POO\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
+C:\CSharp\POO\obj\Debug\net8.0\POO.AssemblyInfo.cs
+C:\CSharp\POO\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
+C:\CSharp\POO\obj\Debug\net8.0\POO.sourcelink.json
