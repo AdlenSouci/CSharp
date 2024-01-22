@@ -24,7 +24,9 @@ else if (discriminant == 0)
 else
 {
     Console.WriteLine("l'equation n'a pas de solution");
+
 }
 
 Console.ReadLine();
+
 

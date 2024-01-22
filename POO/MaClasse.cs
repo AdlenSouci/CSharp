@@ -10,9 +10,9 @@ namespace POO
             Console.WriteLine("MaMethode");
         }
 
-        public string Ecrire()
+        public void Ecrire( string message)
         {
-            Console.WriteLine("Ecrire");
+            Console.WriteLine(message);
            
         }
 

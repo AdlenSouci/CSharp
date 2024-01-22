@@ -3,3 +3,13 @@ C:\CSharp\POO\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
 C:\CSharp\POO\obj\Debug\net8.0\POO.AssemblyInfo.cs
 C:\CSharp\POO\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
 C:\CSharp\POO\obj\Debug\net8.0\POO.sourcelink.json
+C:\CSharp\POO\bin\Debug\net8.0\POO.exe
+C:\CSharp\POO\bin\Debug\net8.0\POO.deps.json
+C:\CSharp\POO\bin\Debug\net8.0\POO.runtimeconfig.json
+C:\CSharp\POO\bin\Debug\net8.0\POO.dll
+C:\CSharp\POO\bin\Debug\net8.0\POO.pdb
+C:\CSharp\POO\obj\Debug\net8.0\POO.dll
+C:\CSharp\POO\obj\Debug\net8.0\refint\POO.dll
+C:\CSharp\POO\obj\Debug\net8.0\POO.pdb
+C:\CSharp\POO\obj\Debug\net8.0\POO.genruntimeconfig.cache
+C:\CSharp\POO\obj\Debug\net8.0\ref\POO.dll
