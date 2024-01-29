@@ -26,17 +26,27 @@ namespace TPCalc
         }
         public decimal Division(decimal a, decimal b)
         {
-            while (b == 0 or a == 0)
+            if (b == 0 || a == 0)
             {
                 Console.WriteLine("Impossible de diviser par 0");
                 return 0;
-
             }
             return a / b;
-
-
-
-
         }
+
+        public decimal Modulo(decimal a, decimal b)
+        {
+            if (b == 0 || a == 0)
+            {
+                Console.WriteLine("Impossible de diviser par 0");
+                return 0;
+            }
+            return a % b;
+        }
+
+
+
+
     }
 }
+
